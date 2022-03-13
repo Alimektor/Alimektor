@@ -1,0 +1,47 @@
+{
+    "name": "Eugeny \"Alimektor\" Ognev",
+    "projects": [
+        {
+            "name": "My WEB Pet Projects",
+            "projects": []
+        },
+        {
+            "name": "My Desktop Pet Projects",
+            "projects": [
+                {
+                    "name": "Battleship Game",
+                    "link": "https://github.com/Alimektor/battleship-cpp-clr",
+                    "technology": ["windows", "cpp"],
+                    "description": "a program to play Battleship with PC in easy mode."
+                },
+                {
+                    "name": "Solar System Model",
+                    "link": "https://github.com/Alimektor/solar-system-model-cpp-clr",
+                    "technology": ["windows", "cpp"],
+                    "description": "a program for modeling the Solar System."
+                },
+                {
+                    "name": "Ballistic Game",
+                    "link": "https://github.com/Alimektor/ballistic-game-cpp-clr",
+                    "technology": ["windows", "cpp"],
+                    "description": "a program for modeling the ballistic game."
+                },
+                {
+                    "name": "Hyphenation Rules",
+                    "link": "https://github.com/Alimektor/hyphenation-rules-cpp-clr",
+                    "technology": ["windows", "cpp"],
+                    "description": "a program for hyphenation rules in Russian."
+                }
+            ]
+        },
+        {
+            "name": "My Mobile Pet Projects",
+            "projects": []
+        }
+    ],
+    "links": [
+        { "name": "yandex-mail", "link": "mailto:sheste12@yandex.ru?subject=%5BGitHub%5D%20SUBJECT&body=Hello%2C%20Alimektor%0D%0A%0D%0A1.%20WHO%20ARE%20YOU.%0D%0A2.%20WHAT%20YOU%20NEED.%0D%0A3.%20YOUR%20QUESTION%20OR%20OFFER.%0D%0A4.%20YOUR%20EXPECTATIONS. " },
+        { "name": "telegram", "link": "https://t.me/alimektor" },
+        { "name": "vk", "link": "https://vk.com/alimektor" }
+    ]
+}
