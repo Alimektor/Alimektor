@@ -17,13 +17,15 @@ No projects yet. I said **"not yet."**
 ### My Desktop Pet Projects ###
 
 
-- [Battleship Game](https://github.com/Alimektor/battleship-cpp-clr) ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  — a program to play Battleship with PC in easy mode.
+- [Shelldoc](https://github.com/Alimektor/shelldoc) ![mit](images/licenses/mit.svg)  ![linux](images/tech/linux.svg) ![shell-script](images/tech/shell-script.svg)  — a simple utility for creating Tomdoc style documentation for bash script.
 
-- [Solar System Model](https://github.com/Alimektor/solar-system-model-cpp-clr) ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  — a program for modeling the Solar System.
+- [Battleship Game](https://github.com/Alimektor/battleship-cpp-clr) ![mit](images/licenses/mit.svg)  ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  — a program to play Battleship with PC in easy mode.
 
-- [Ballistic Game](https://github.com/Alimektor/ballistic-game-cpp-clr) ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  — a program for modeling the ballistic game.
+- [Solar System Model](https://github.com/Alimektor/solar-system-model-cpp-clr) ![mit](images/licenses/mit.svg)  ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  — a program for modeling the Solar System.
 
-- [Hyphenation Rules](https://github.com/Alimektor/hyphenation-rules-cpp-clr) ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  — a program for hyphenation rules in Russian.
+- [Ballistic Game](https://github.com/Alimektor/ballistic-game-cpp-clr) ![mit](images/licenses/mit.svg)  ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  — a program for modeling the ballistic game.
+
+- [Hyphenation Rules](https://github.com/Alimektor/hyphenation-rules-cpp-clr) ![mit](images/licenses/mit.svg)  ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  — a program for hyphenation rules in Russian.
  
 
 
@@ -44,4 +46,4 @@ No projects yet. I said **"not yet."**
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: October 05, 2021
+Last Updated: June 04, 2022
