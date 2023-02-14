@@ -9,6 +9,13 @@ This is my Official GitHub Account.
 ## Projects ##
 
 
+### My Cross-Platform Pet Projects ###
+
+
+- [git-sync](https://github.com/Alimektor/git-sync) ![mit](images/licenses/mit.svg)  ![linux](images/tech/linux.svg) ![windows](images/tech/windows.svg) ![android](images/tech/android.svg) ![shell-script](images/tech/shell-script.svg) ![powershell](images/tech/powershell.svg)  — a template with magic aliases, hooks, services for Git repository auto-synchronization between different devices. 
+ 
+
+
 ### My WEB Pet Projects ###
 
 No projects yet. I said **"not yet."**
@@ -46,4 +53,4 @@ No projects yet. I said **"not yet."**
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: June 04, 2022
+Last Updated: February 16, 2023
