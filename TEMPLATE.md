@@ -28,6 +28,10 @@ No projects yet. I said **"not yet."**
 
 <a href="https://www.codewars.com/users/Alimektor"><img src="https://www.codewars.com/users/Alimektor/badges/large" alt="Codewars"></a>
 
+## Duolingo ## 
+
+<a href="https://www.duolingo.com/profile/Alimektor"><img src="https://duolingo-stats-card.vercel.app/api?username=Alimektor&theme=purple-gang" alt="Duolingo"></a>
+
 ![Dino](images/general/dino.gif)
 
 Last Updated: {{last_updated}}
