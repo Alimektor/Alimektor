@@ -45,6 +45,16 @@ No projects yet. I said **"not yet."**
 
  <a href="mailto:sheste12@yandex.ru?subject=%5BGitHub%5D%20SUBJECT&body=Hello%2C%20Alimektor%0D%0A%0D%0A1.%20WHO%20ARE%20YOU.%0D%0A2.%20WHAT%20YOU%20NEED.%0D%0A3.%20YOUR%20QUESTION%20OR%20OFFER.%0D%0A4.%20YOUR%20EXPECTATIONS. "><img src="images/social/yandex-mail.svg" width="64px" height="64px" alt="yandex-mail"></a>  <a href="https://t.me/alimektor"><img src="images/social/telegram.svg" width="64px" height="64px" alt="telegram"></a>  <a href="https://vk.com/alimektor"><img src="images/social/vk.svg" width="64px" height="64px" alt="vk"></a> 
 
+## LeetCode ##
+
+[![LeetCode user Alimektor](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAlimektor&logo=leetcode&logoColor=yellow)](https://leetcode.com/Alimektor/)
+
+[![LeetCode user Alimektor](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAlimektor&logo=leetcode&logoColor=yellow)](https://leetcode.com/Alimektor/)
+
+[![LeetCode user Alimektor](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedPercentage&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAlimektor&logo=leetcode&logoColor=yellow)](https://leetcode.com/Alimektor/)
+
+
+
 ## Codewars ##
 
 <a href="https://www.codewars.com/users/Alimektor"><img src="https://www.codewars.com/users/Alimektor/badges/large" alt="Codewars"></a>
