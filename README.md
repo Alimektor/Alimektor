@@ -11,9 +11,10 @@ This is my Official GitHub Account.
 
 ### My Cross-Platform Pet Projects ###
 
+| Project name | License | Technoloy | Description |
+| ------------ | ------- | --------- | ----------- |
+| [git-sync](https://github.com/Alimektor/git-sync) | ![mit](images/licenses/mit.svg)  | ![linux](images/tech/linux.svg) ![windows](images/tech/windows.svg) ![android](images/tech/android.svg) ![shell-script](images/tech/shell-script.svg) ![powershell](images/tech/powershell.svg)  | a template with magic aliases, hooks, services for Git repository auto-synchronization between different devices.  | 
 
-- [git-sync](https://github.com/Alimektor/git-sync) ![mit](images/licenses/mit.svg)  ![linux](images/tech/linux.svg) ![windows](images/tech/windows.svg) ![android](images/tech/android.svg) ![shell-script](images/tech/shell-script.svg) ![powershell](images/tech/powershell.svg)  â€” a template with magic aliases, hooks, services for Git repository auto-synchronization between different devices. 
- 
 
 
 ### My WEB Pet Projects ###
@@ -23,17 +24,14 @@ No projects yet. I said **"not yet."**
 
 ### My Desktop Pet Projects ###
 
+| Project name | License | Technoloy | Description |
+| ------------ | ------- | --------- | ----------- |
+| [Shelldoc](https://github.com/Alimektor/shelldoc) | ![mit](images/licenses/mit.svg)  | ![linux](images/tech/linux.svg) ![shell-script](images/tech/shell-script.svg)  | a simple utility for creating Tomdoc style documentation for bash script. | 
+| [Battleship Game](https://github.com/Alimektor/battleship-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program to play Battleship with PC in easy mode. | 
+| [Solar System Model](https://github.com/Alimektor/solar-system-model-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program for modeling the Solar System. | 
+| [Ballistic Game](https://github.com/Alimektor/ballistic-game-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program for modeling the ballistic game. | 
+| [Hyphenation Rules](https://github.com/Alimektor/hyphenation-rules-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program for hyphenation rules in Russian. | 
 
-- [Shelldoc](https://github.com/Alimektor/shelldoc) ![mit](images/licenses/mit.svg)  ![linux](images/tech/linux.svg) ![shell-script](images/tech/shell-script.svg)  â€” a simple utility for creating Tomdoc style documentation for bash script.
-
-- [Battleship Game](https://github.com/Alimektor/battleship-cpp-clr) ![mit](images/licenses/mit.svg)  ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  â€” a program to play Battleship with PC in easy mode.
-
-- [Solar System Model](https://github.com/Alimektor/solar-system-model-cpp-clr) ![mit](images/licenses/mit.svg)  ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  â€” a program for modeling the Solar System.
-
-- [Ballistic Game](https://github.com/Alimektor/ballistic-game-cpp-clr) ![mit](images/licenses/mit.svg)  ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  â€” a program for modeling the ballistic game.
-
-- [Hyphenation Rules](https://github.com/Alimektor/hyphenation-rules-cpp-clr) ![mit](images/licenses/mit.svg)  ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  â€” a program for hyphenation rules in Russian.
- 
 
 
 ### My Mobile Pet Projects ###
