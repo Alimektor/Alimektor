@@ -53,8 +53,6 @@ No projects yet. I said **"not yet."**
 
 [![LeetCode user Alimektor](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedPercentage&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAlimektor&logo=leetcode&logoColor=yellow)](https://leetcode.com/Alimektor/)
 
-
-
 ## Codewars ##
 
 <a href="https://www.codewars.com/users/Alimektor"><img src="https://www.codewars.com/users/Alimektor/badges/large" alt="Codewars"></a>
@@ -62,6 +60,12 @@ No projects yet. I said **"not yet."**
 ## Duolingo ## 
 
 <a href="https://www.duolingo.com/profile/Alimektor"><img src="https://duolingo-stats-card.vercel.app/api?username=Alimektor&theme=purple-gang" alt="Duolingo"></a>
+
+## Others ##
+
+[![Valorant Badge](https://img.shields.io/badge/Valorant-FA4454?logo=valorant&logoColor=fff&style=flat-square)](https://tracker.gg/valorant/profile/riot/%E3%82%A2%E3%83%AA%E3%83%A1%E3%82%AF%E3%82%BF%E3%83%BC%23%E3%82%A2%E3%83%AC%E3%83%8D%E3%82%AF%E3%83%88/overview)
+
+----
 
 ![Dino](images/general/dino.gif)
 
