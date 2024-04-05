@@ -11,8 +11,8 @@ This is my Official GitHub Account.
 {% for group in projects %}
 ### {{group.name}} ###
 {% if group.projects is defined and group.projects %}
-| Project name | License | Technoloy | Description |
-| ------------ | ------- | --------- | ----------- |
+| Project name | License | Technology | Description |
+| ------------ | ------- | ---------- | ----------- |
 {% for project in group.projects %}| [{{project.name}}]({{project.link}}) | {% for license in project.licenses %}![{{license}}](images/licenses/{{license}}.svg) {% endfor %} | {% for technology in project.technologies %}![{{technology}}](images/tech/{{technology}}.svg) {% endfor %} | {{project.description}} | 
 {% endfor %}
 {% else %}

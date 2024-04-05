@@ -11,8 +11,8 @@ This is my Official GitHub Account.
 
 ### My Cross-Platform Pet Projects ###
 
-| Project name | License | Technoloy | Description |
-| ------------ | ------- | --------- | ----------- |
+| Project name | License | Technology | Description |
+| ------------ | ------- | ---------- | ----------- |
 | [git-sync](https://github.com/Alimektor/git-sync) | ![mit](images/licenses/mit.svg)  | ![linux](images/tech/linux.svg) ![windows](images/tech/windows.svg) ![android](images/tech/android.svg) ![shell-script](images/tech/shell-script.svg) ![powershell](images/tech/powershell.svg)  | a template with magic aliases, hooks, services for Git repository auto-synchronization between different devices.  | 
 
 
@@ -24,8 +24,8 @@ No projects yet. I said **"not yet."**
 
 ### My Desktop Pet Projects ###
 
-| Project name | License | Technoloy | Description |
-| ------------ | ------- | --------- | ----------- |
+| Project name | License | Technology | Description |
+| ------------ | ------- | ---------- | ----------- |
 | [Shelldoc](https://github.com/Alimektor/shelldoc) | ![mit](images/licenses/mit.svg)  | ![linux](images/tech/linux.svg) ![shell-script](images/tech/shell-script.svg)  | a simple utility for creating Tomdoc style documentation for bash script. | 
 | [Battleship Game](https://github.com/Alimektor/battleship-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program to play Battleship with PC in easy mode. | 
 | [Solar System Model](https://github.com/Alimektor/solar-system-model-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program for modeling the Solar System. | 
@@ -69,4 +69,4 @@ No projects yet. I said **"not yet."**
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: April 04, 2024
+Last Updated: April 05, 2024
