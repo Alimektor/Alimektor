@@ -9,41 +9,35 @@ This is my Official GitHub Account.
 ## Projects ##
 
 
-### My Cross-Platform Pet Projects ###
 
-| Project name | License | Technology | Description |
-| ------------ | ------- | ---------- | ----------- |
-| [git-sync](https://github.com/Alimektor/git-sync) | ![mit](images/licenses/mit.svg)  | ![linux](images/tech/linux.svg) ![windows](images/tech/windows.svg) ![android](images/tech/android.svg) ![shell-script](images/tech/shell-script.svg) ![powershell](images/tech/powershell.svg)  | a template with magic aliases, hooks, services for Git repository auto-synchronization between different devices.  | 
-
-
-
-### My WEB Pet Projects ###
-
-No projects yet. I said **"not yet."**
-
-
-### My Desktop Pet Projects ###
-
-| Project name | License | Technology | Description |
-| ------------ | ------- | ---------- | ----------- |
-| [Shelldoc](https://github.com/Alimektor/shelldoc) | ![mit](images/licenses/mit.svg)  | ![linux](images/tech/linux.svg) ![shell-script](images/tech/shell-script.svg)  | a simple utility for creating Tomdoc style documentation for bash script. | 
-| [Battleship Game](https://github.com/Alimektor/battleship-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program to play Battleship with PC in easy mode. | 
-| [Solar System Model](https://github.com/Alimektor/solar-system-model-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program for modeling the Solar System. | 
-| [Ballistic Game](https://github.com/Alimektor/ballistic-game-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program for modeling the ballistic game. | 
-| [Hyphenation Rules](https://github.com/Alimektor/hyphenation-rules-cpp-clr) | ![mit](images/licenses/mit.svg)  | ![windows](images/tech/windows.svg) ![cpp](images/tech/cpp.svg)  | a program for hyphenation rules in Russian. | 
+- [bats-alimektor](https://github.com/Alimektor/bats-alimektor) ![bats-alimektor License](https://img.shields.io/github/license/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/languages/top/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/stars/Alimektor/bats-alimektor.svg?style=plastic) — 
+- [git-synchronize](https://github.com/Alimektor/git-synchronize) ![git-synchronize License](https://img.shields.io/github/license/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/languages/top/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/stars/Alimektor/git-synchronize.svg?style=plastic) — 
+- [mendokusai](https://github.com/Alimektor/mendokusai) ![mendokusai License](https://img.shields.io/github/license/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/languages/top/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/stars/Alimektor/mendokusai.svg?style=plastic) — めんどくさい is a public home (~) config directory with useful configs, scripts, cheat codes, shell libraries for Linux / Git Bash for every day.
 
 
 
-### My Mobile Pet Projects ###
-
-No projects yet. I said **"not yet."**
 
 
+<details>
+<summary>Archive Projects</summary>
+
+- [shelldoc](https://github.com/Alimektor/shelldoc) ![shelldoc License](https://img.shields.io/github/license/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/languages/top/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/stars/Alimektor/shelldoc.svg?style=plastic) — A simple utility for creating Tomdoc style documentation for bash script.
+
+- [git-sync](https://github.com/Alimektor/git-sync) ![git-sync License](https://img.shields.io/github/license/Alimektor/git-sync.svg?style=plastic) ![git-sync Language](https://img.shields.io/github/languages/top/Alimektor/git-sync.svg?style=plastic) ![git-sync Language](https://img.shields.io/github/stars/Alimektor/git-sync.svg?style=plastic) — A template with magic aliases, hooks, services for Git repository auto-synchronization between different devices.
+
+- [ballistic-game-cpp-clr](https://github.com/Alimektor/ballistic-game-cpp-clr) ![ballistic-game-cpp-clr License](https://img.shields.io/github/license/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) ![ballistic-game-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) ![ballistic-game-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) — One day someone asked me to write a program for modeling the Ballistic Game. Using the capabilities of the modern Internet, I did it. 
+
+- [hyphenation-rules-cpp-clr](https://github.com/Alimektor/hyphenation-rules-cpp-clr) ![hyphenation-rules-cpp-clr License](https://img.shields.io/github/license/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) ![hyphenation-rules-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) ![hyphenation-rules-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) — One day some girl asked me to write a program for Hyphenation Rules. Using the capabilities of the modern Internet, I did it. 
+
+- [battleship-cpp-clr](https://github.com/Alimektor/battleship-cpp-clr) ![battleship-cpp-clr License](https://img.shields.io/github/license/Alimektor/battleship-cpp-clr.svg?style=plastic) ![battleship-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/battleship-cpp-clr.svg?style=plastic) ![battleship-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/battleship-cpp-clr.svg?style=plastic) — One day someone asked me to write a program to play Battleship. Using the power of the modern Internet, I did it.
+
+- [solar-system-model-cpp-clr](https://github.com/Alimektor/solar-system-model-cpp-clr) ![solar-system-model-cpp-clr License](https://img.shields.io/github/license/Alimektor/solar-system-model-cpp-clr.svg?style=plastic) ![solar-system-model-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/solar-system-model-cpp-clr.svg?style=plastic) ![solar-system-model-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/solar-system-model-cpp-clr.svg?style=plastic) — One day someone asked me to write a program for modeling the Solar System. Using the capabilities of the modern Internet, I did it.
+</details>
 
 
 ## Social ##
 
- <a href="mailto:sheste12@yandex.ru?subject=%5BGitHub%5D%20SUBJECT&body=Hello%2C%20Alimektor%0D%0A%0D%0A1.%20WHO%20ARE%20YOU.%0D%0A2.%20WHAT%20YOU%20NEED.%0D%0A3.%20YOUR%20QUESTION%20OR%20OFFER.%0D%0A4.%20YOUR%20EXPECTATIONS. "><img src="images/social/yandex-mail.svg" width="64px" height="64px" alt="yandex-mail"></a>  <a href="https://t.me/alimektor"><img src="images/social/telegram.svg" width="64px" height="64px" alt="telegram"></a>  <a href="https://vk.com/alimektor"><img src="images/social/vk.svg" width="64px" height="64px" alt="vk"></a> 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alimektor)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimektor@gmail.com?subject=%5BGitHub%5D%20SUBJECT&body=Hello%2C%20Alimektor%0D%0A%0D%0A1.%20WHO%20ARE%20YOU.%0D%0A2.%20WHAT%20YOU%20NEED.%0D%0A3.%20YOUR%20QUESTION%20OR%20OFFER.%0D%0A4.%20YOUR%20EXPECTATIONS.)
 
 ## LeetCode ##
 
@@ -57,7 +51,7 @@ No projects yet. I said **"not yet."**
 
 <a href="https://www.codewars.com/users/Alimektor"><img src="https://www.codewars.com/users/Alimektor/badges/large" alt="Codewars"></a>
 
-## Duolingo ## 
+## Duolingo ##
 
 <a href="https://www.duolingo.com/profile/Alimektor"><img src="https://duolingo-stats-card.vercel.app/api?username=Alimektor&theme=purple-gang" alt="Duolingo"></a>
 
@@ -69,4 +63,4 @@ No projects yet. I said **"not yet."**
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: April 05, 2024
+Last Updated: December 17, 2024
