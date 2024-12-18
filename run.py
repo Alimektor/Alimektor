@@ -9,9 +9,9 @@ import argparse
 
 def main(debug):
     today = date.today()
-    markdown_template = open("TEMPLATE.md").read()
+    markdown_template = open("config/TEMPLATE.md").read()
     template = Template(markdown_template)
-    config = toml.load("config.toml")
+    config = toml.load("config/config.toml")
     config.update({"last_updated": today.strftime("%B %d, %Y")})
     config.update({"public_projects": get_public_github_projects()})
     config.update({"archive_projects": get_archive_github_projects()})
@@ -37,7 +37,10 @@ def get_archive_github_projects():
     return [project for project in projects if project["isArchived"] and not project["isPrivate"] and not project["isFork"]]
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser("run.py")
-    parser.add_argument("--debug", "-d", action='store_true')
-    args = parser.parse_args()
-    main(args.debug)
+    try:
+        parser = argparse.ArgumentParser("run.py")
+        parser.add_argument("--debug", "-d", action='store_true')
+        args = parser.parse_args()
+        main(args.debug)
+    except json.decoder.JSONDecodeError:
+        print("Error: Need to be logged in to GitHub or something is wrong!")

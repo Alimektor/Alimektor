@@ -7,18 +7,11 @@ Hello, <img src="images/general/hi.gif" width="32px" height="32px"> my name is {
 This is my Official GitHub Account.
 
 ## Projects ##
-
-{% if public_projects is defined and public_projects %}
-{% for project in public_projects %}
+{% if public_projects is defined and public_projects %}{% for project in public_projects %}
 - [{{project.name}}](https://github.com/{{project.owner.login}}/{{project.name}}) ![{{project.name}} License](https://img.shields.io/github/license/{{project.owner.login}}/{{project.name}}.svg?style=plastic) ![{{project.name}} Language](https://img.shields.io/github/languages/top/{{project.owner.login}}/{{project.name}}.svg?style=plastic) ![{{project.name}} Language](https://img.shields.io/github/stars/{{project.owner.login}}/{{project.name}}.svg?style=plastic) — {{project.description}}{% endfor %}
 {% endif %}
-
-
-
-{% if archive_projects is defined and archive_projects %}
-<details>
-<summary>Archive Projects</summary>
-{% for project in archive_projects %}
+{% if archive_projects is defined and archive_projects %}<details>
+<summary>Archive Projects</summary>{% for project in archive_projects %}
 - [{{project.name}}](https://github.com/{{project.owner.login}}/{{project.name}}) ![{{project.name}} License](https://img.shields.io/github/license/{{project.owner.login}}/{{project.name}}.svg?style=plastic) ![{{project.name}} Language](https://img.shields.io/github/languages/top/{{project.owner.login}}/{{project.name}}.svg?style=plastic) ![{{project.name}} Language](https://img.shields.io/github/stars/{{project.owner.login}}/{{project.name}}.svg?style=plastic) — {{project.description}}
 {% endfor %}</details>
 {% endif %}
@@ -45,7 +38,9 @@ This is my Official GitHub Account.
 
 ## Others ##
 
-[![Valorant Badge](https://img.shields.io/badge/Valorant-FA4454?logo=valorant&logoColor=fff&style=flat-square)](https://tracker.gg/valorant/profile/riot/%E3%82%A2%E3%83%AA%E3%83%A1%E3%82%AF%E3%82%BF%E3%83%BC%23%E3%82%A2%E3%83%AC%E3%83%8D%E3%82%AF%E3%83%88/overview)
+I'm the kind of gamer who loves many genres. You can always discuss any existing game with me.
+
+[![Valorant Badge](https://img.shields.io/badge/Valorant-FA4454?logo=valorant&logoColor=fff&style=flat-square)](https://tracker.gg/valorant/profile/riot/%E3%82%A2%E3%83%AA%E3%83%A1%E3%82%AF%E3%82%BF%23%E3%82%A2%E3%83%AC%E3%83%8D%E3%82%AF%E3%83%88/overview)
 
 ----
 
