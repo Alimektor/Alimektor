@@ -31,7 +31,7 @@ I am actively learning on various platforms and solving programming problems. He
 
 <summary>LeetCode</summary>
 
-I like LeetCode. I don't have time to go through it that often at the moment, but it keeps me going. Check out what I'm [playing right now](https://www.igdb.com/users/alimektor/lists/playing) or what I've already [played](https://www.igdb.com/users/alimektor/lists/played).
+I like LeetCode. I don't have time to go through it that often at the moment, but it keeps me going.
 
 [![LeetCode user Alimektor](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAlimektor&logo=leetcode&logoColor=yellow)](https://leetcode.com/Alimektor/)
 
@@ -55,7 +55,7 @@ Codewars is a platform where you can learn some syntactic sugar for a certain. I
 
 <summary>Duolingo</summary>
 
-Most likely, this app is just good practice for a cab ride. But friends are on the app and a little practice doesn't hurt. Plus it disciplines me to build useful habits.
+Most likely, this app is just good practice for a taxi ride. But friends are on the app and a little practice is good. Plus it disciplines me to build useful habits.
 
 <a href="https://www.duolingo.com/profile/Alimektor"><img src="https://duolingo-stats-card.vercel.app/api?username=Alimektor&theme=purple-gang" alt="Duolingo"></a>
 
@@ -63,7 +63,7 @@ Most likely, this app is just good practice for a cab ride. But friends are on t
 
 ## Gaming ##
 
-I'm the kind of gamer who loves many genres. You can always discuss any existing game with me.
+I'm the kind of gamer who loves many genres. You can always discuss any existing game with me. Check out what I'm [playing right now](https://www.igdb.com/users/alimektor/lists/playing) or what I've already [played](https://www.igdb.com/users/alimektor/lists/played).
 
 <details>
 
