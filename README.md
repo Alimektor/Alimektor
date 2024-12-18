@@ -8,6 +8,24 @@ This is my Official GitHub Account.
 
 ## Projects ##
 
+- [bats-alimektor](https://github.com/Alimektor/bats-alimektor) ![bats-alimektor License](https://img.shields.io/github/license/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/languages/top/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/stars/Alimektor/bats-alimektor.svg?style=plastic) — A Bats library with useful Bash functions.
+- [git-synchronize](https://github.com/Alimektor/git-synchronize) ![git-synchronize License](https://img.shields.io/github/license/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/languages/top/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/stars/Alimektor/git-synchronize.svg?style=plastic) — 
+- [mendokusai](https://github.com/Alimektor/mendokusai) ![mendokusai License](https://img.shields.io/github/license/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/languages/top/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/stars/Alimektor/mendokusai.svg?style=plastic) — A public home (~) config directory with useful configs, scripts, cheat codes, shell libraries for Linux / Git Bash for every day.
+
+<details>
+<summary>Archive Projects</summary>
+- [shelldoc](https://github.com/Alimektor/shelldoc) ![shelldoc License](https://img.shields.io/github/license/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/languages/top/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/stars/Alimektor/shelldoc.svg?style=plastic) — A simple utility for creating Tomdoc style documentation for bash script.
+
+- [git-sync](https://github.com/Alimektor/git-sync) ![git-sync License](https://img.shields.io/github/license/Alimektor/git-sync.svg?style=plastic) ![git-sync Language](https://img.shields.io/github/languages/top/Alimektor/git-sync.svg?style=plastic) ![git-sync Language](https://img.shields.io/github/stars/Alimektor/git-sync.svg?style=plastic) — A template with magic aliases, hooks, services for Git repository auto-synchronization between different devices.
+
+- [ballistic-game-cpp-clr](https://github.com/Alimektor/ballistic-game-cpp-clr) ![ballistic-game-cpp-clr License](https://img.shields.io/github/license/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) ![ballistic-game-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) ![ballistic-game-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) — One day someone asked me to write a program for modeling the Ballistic Game. Using the capabilities of the modern Internet, I did it. 
+
+- [hyphenation-rules-cpp-clr](https://github.com/Alimektor/hyphenation-rules-cpp-clr) ![hyphenation-rules-cpp-clr License](https://img.shields.io/github/license/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) ![hyphenation-rules-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) ![hyphenation-rules-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) — One day some girl asked me to write a program for Hyphenation Rules. Using the capabilities of the modern Internet, I did it. 
+
+- [battleship-cpp-clr](https://github.com/Alimektor/battleship-cpp-clr) ![battleship-cpp-clr License](https://img.shields.io/github/license/Alimektor/battleship-cpp-clr.svg?style=plastic) ![battleship-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/battleship-cpp-clr.svg?style=plastic) ![battleship-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/battleship-cpp-clr.svg?style=plastic) — One day someone asked me to write a program to play Battleship. Using the power of the modern Internet, I did it.
+
+- [solar-system-model-cpp-clr](https://github.com/Alimektor/solar-system-model-cpp-clr) ![solar-system-model-cpp-clr License](https://img.shields.io/github/license/Alimektor/solar-system-model-cpp-clr.svg?style=plastic) ![solar-system-model-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/solar-system-model-cpp-clr.svg?style=plastic) ![solar-system-model-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/solar-system-model-cpp-clr.svg?style=plastic) — One day someone asked me to write a program for modeling the Solar System. Using the capabilities of the modern Internet, I did it.
+</details>
 
 
 ## Social ##
