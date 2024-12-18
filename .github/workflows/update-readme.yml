@@ -33,7 +33,7 @@ jobs:
         run: sudo apt-get install gh
 
       - name: Authenticate GitHub CLI
-        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+        run: echo "${{ secrets.PERSONAL_TOKEN }}" | gh auth login --with-token
 
       - name: Make script executable
         run: chmod +x run.py
@@ -46,7 +46,7 @@ jobs:
           git config --local user.name "アリメクタ アレネクト"
           git config --local user.email "alimektor@gmail.com"
           git add .
-          git commit -m "Update README from Update README task" || echo "No changes to commit"
+          git commit -m "Update README from Github Actions task" || echo "No changes to commit"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
