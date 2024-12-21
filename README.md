@@ -1,5 +1,7 @@
 # README ABOUT ME #
 
+[![Update README](https://github.com/Alimektor/Alimektor/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Alimektor/Alimektor/actions/workflows/update-readme.yml)
+
 ![Hello](images/general/hello.gif)
 
 Hello, <img src="images/general/hi.gif" width="32px" height="32px"> my name is Eugeny "Alimektor" Ognev.
@@ -9,7 +11,6 @@ This is my Official GitHub Account.
 ## Projects ##
 
 - [bats-alimektor](https://github.com/Alimektor/bats-alimektor) ![bats-alimektor License](https://img.shields.io/github/license/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/languages/top/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/stars/Alimektor/bats-alimektor.svg?style=plastic) — A Bats library with useful Bash functions.
-- [git-synchronize](https://github.com/Alimektor/git-synchronize) ![git-synchronize License](https://img.shields.io/github/license/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/languages/top/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/stars/Alimektor/git-synchronize.svg?style=plastic) — 
 - [mendokusai](https://github.com/Alimektor/mendokusai) ![mendokusai License](https://img.shields.io/github/license/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/languages/top/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/stars/Alimektor/mendokusai.svg?style=plastic) — A public home (~) config directory with useful configs, scripts, cheat codes, shell libraries for Linux / Git Bash for every day.
 
 <details>
@@ -91,4 +92,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: December 18, 2024
+Last Updated: December 21, 2024
