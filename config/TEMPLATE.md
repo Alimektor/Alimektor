@@ -1,5 +1,7 @@
 # README ABOUT ME #
 
+[![Update README](https://github.com/Alimektor/Alimektor/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Alimektor/Alimektor/actions/workflows/update-readme.yml)
+
 ![Hello](images/general/hello.gif)
 
 Hello, <img src="images/general/hi.gif" width="32px" height="32px"> my name is {{name}}.
