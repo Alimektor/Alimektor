@@ -12,6 +12,7 @@ This is my Official GitHub Account.
 
 - [bats-alimektor](https://github.com/Alimektor/bats-alimektor) ![bats-alimektor License](https://img.shields.io/github/license/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/languages/top/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/stars/Alimektor/bats-alimektor.svg?style=plastic) — A Bats library with useful Bash functions.
 - [mendokusai](https://github.com/Alimektor/mendokusai) ![mendokusai License](https://img.shields.io/github/license/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/languages/top/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/stars/Alimektor/mendokusai.svg?style=plastic) — A public home (~) config directory with useful configs, scripts, cheat codes, shell libraries for Linux / Git Bash for every day.
+- [old-alimektor.github.io](https://github.com/Alimektor/old-alimektor.github.io) ![old-alimektor.github.io License](https://img.shields.io/github/license/Alimektor/old-alimektor.github.io.svg?style=plastic) ![old-alimektor.github.io Language](https://img.shields.io/github/languages/top/Alimektor/old-alimektor.github.io.svg?style=plastic) ![old-alimektor.github.io Language](https://img.shields.io/github/stars/Alimektor/old-alimektor.github.io.svg?style=plastic) — Alimektor's Blog Site
 
 <details>
 <summary>Archive Projects</summary>
@@ -92,4 +93,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: February 02, 2025
+Last Updated: February 09, 2025
