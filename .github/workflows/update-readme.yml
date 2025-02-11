@@ -45,6 +45,7 @@ jobs:
         run: |
           git config --local user.name "アリメクタ アレネクト"
           git config --local user.email "alimektor@gmail.com"
+          git diff-index --quiet HEAD -- || sed -i "s/Last Updated: DATE_HERE/Last Updated: $(date +"%B %d, %Y")/" README.md
           git add .
           git commit -m "Update README from Github Actions task" || echo "No changes to commit"
           git push origin main

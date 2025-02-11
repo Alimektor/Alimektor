@@ -12,7 +12,6 @@ def main(debug):
     markdown_template = open("config/TEMPLATE.md").read()
     template = Template(markdown_template)
     config = toml.load("config/config.toml")
-    config.update({"last_updated": today.strftime("%B %d, %Y")})
     config.update({"public_projects": get_public_github_projects()})
     config.update({"archive_projects": get_archive_github_projects()})
     readme_content = template.render(config)
