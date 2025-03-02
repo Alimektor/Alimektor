@@ -10,8 +10,9 @@ This is my Official GitHub Account.
 
 ## Projects ##
 
-- [mendokusai](https://github.com/Alimektor/mendokusai) ![mendokusai License](https://img.shields.io/github/license/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/languages/top/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/stars/Alimektor/mendokusai.svg?style=plastic) — A public home (~) config directory with useful configs, scripts, cheat codes, shell libraries for Linux / Git Bash for every day.
+- [git-synchronize](https://github.com/Alimektor/git-synchronize) ![git-synchronize License](https://img.shields.io/github/license/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/languages/top/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/stars/Alimektor/git-synchronize.svg?style=plastic) — Git command that helps you synchronize your local git repository with a remote repository with automatic commit message and push.
 - [bats-alimektor](https://github.com/Alimektor/bats-alimektor) ![bats-alimektor License](https://img.shields.io/github/license/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/languages/top/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/stars/Alimektor/bats-alimektor.svg?style=plastic) — A Bats library with useful Bash functions.
+- [mendokusai](https://github.com/Alimektor/mendokusai) ![mendokusai License](https://img.shields.io/github/license/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/languages/top/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/stars/Alimektor/mendokusai.svg?style=plastic) — A public home (~) config directory with useful configs, scripts, cheat codes, shell libraries for Linux / Git Bash for every day.
 
 <details>
 <summary>Archive Projects</summary>
@@ -92,4 +93,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: February 23, 2025
+Last Updated: March 02, 2025
