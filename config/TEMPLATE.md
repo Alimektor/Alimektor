@@ -8,6 +8,8 @@ Hello, <img src="images/general/hi.gif" width="32px" height="32px"> my name is {
 
 This is my Official GitHub Account.
 
+I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart.
+
 ## Projects ##
 {% if public_projects is defined and public_projects %}{% for project in public_projects %}
 - [{{project.name}}](https://github.com/{{project.owner.login}}/{{project.name}}) ![{{project.name}} License](https://img.shields.io/github/license/{{project.owner.login}}/{{project.name}}.svg?style=plastic) ![{{project.name}} Language](https://img.shields.io/github/languages/top/{{project.owner.login}}/{{project.name}}.svg?style=plastic) ![{{project.name}} Language](https://img.shields.io/github/stars/{{project.owner.login}}/{{project.name}}.svg?style=plastic) — {{project.description}}{% endfor %}
