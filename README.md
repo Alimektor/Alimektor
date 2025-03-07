@@ -8,6 +8,8 @@ Hello, <img src="images/general/hi.gif" width="32px" height="32px"> my name is ã
 
 This is my Official GitHub Account.
 
+I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart.
+
 ## Projects ##
 
 - [git-synchronize](https://github.com/Alimektor/git-synchronize) ![git-synchronize License](https://img.shields.io/github/license/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/languages/top/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/stars/Alimektor/git-synchronize.svg?style=plastic) â€” Git command that helps you synchronize your local git repository with a remote repository with automatic commit message and push.
@@ -93,4 +95,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: March 02, 2025
+Last Updated: March 07, 2025
