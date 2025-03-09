@@ -95,4 +95,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: March 07, 2025
+Last Updated: March 09, 2025
