@@ -27,6 +27,8 @@ I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart.
 - [ballistic-game-cpp-clr](https://github.com/Alimektor/ballistic-game-cpp-clr) ![ballistic-game-cpp-clr License](https://img.shields.io/github/license/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) ![ballistic-game-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) ![ballistic-game-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) — One day someone asked me to write a program for modeling the Ballistic Game. Using the capabilities of the modern Internet, I did it. 
 
 - [hyphenation-rules-cpp-clr](https://github.com/Alimektor/hyphenation-rules-cpp-clr) ![hyphenation-rules-cpp-clr License](https://img.shields.io/github/license/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) ![hyphenation-rules-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) ![hyphenation-rules-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) — One day some girl asked me to write a program for Hyphenation Rules. Using the capabilities of the modern Internet, I did it. 
+
+- [battleship-cpp-clr](https://github.com/Alimektor/battleship-cpp-clr) ![battleship-cpp-clr License](https://img.shields.io/github/license/Alimektor/battleship-cpp-clr.svg?style=plastic) ![battleship-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/battleship-cpp-clr.svg?style=plastic) ![battleship-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/battleship-cpp-clr.svg?style=plastic) — One day someone asked me to write a program to play Battleship. Using the power of the modern Internet, I did it.
 </details>
 
 
@@ -92,4 +94,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: May 25, 2025
+Last Updated: June 01, 2025
