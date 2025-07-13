@@ -23,10 +23,6 @@ I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart.
 - [shelldoc](https://github.com/Alimektor/shelldoc) ![shelldoc License](https://img.shields.io/github/license/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/languages/top/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/stars/Alimektor/shelldoc.svg?style=plastic) — A simple utility for creating Tomdoc style documentation for bash script.
 
 - [git-sync](https://github.com/Alimektor/git-sync) ![git-sync License](https://img.shields.io/github/license/Alimektor/git-sync.svg?style=plastic) ![git-sync Language](https://img.shields.io/github/languages/top/Alimektor/git-sync.svg?style=plastic) ![git-sync Language](https://img.shields.io/github/stars/Alimektor/git-sync.svg?style=plastic) — A template with magic aliases, hooks, services for Git repository auto-synchronization between different devices.
-
-- [ballistic-game-cpp-clr](https://github.com/Alimektor/ballistic-game-cpp-clr) ![ballistic-game-cpp-clr License](https://img.shields.io/github/license/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) ![ballistic-game-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) ![ballistic-game-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/ballistic-game-cpp-clr.svg?style=plastic) — One day someone asked me to write a program for modeling the Ballistic Game. Using the capabilities of the modern Internet, I did it. 
-
-- [hyphenation-rules-cpp-clr](https://github.com/Alimektor/hyphenation-rules-cpp-clr) ![hyphenation-rules-cpp-clr License](https://img.shields.io/github/license/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) ![hyphenation-rules-cpp-clr Language](https://img.shields.io/github/languages/top/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) ![hyphenation-rules-cpp-clr Language](https://img.shields.io/github/stars/Alimektor/hyphenation-rules-cpp-clr.svg?style=plastic) — One day some girl asked me to write a program for Hyphenation Rules. Using the capabilities of the modern Internet, I did it. 
 </details>
 
 
@@ -92,4 +88,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: July 06, 2025
+Last Updated: July 13, 2025
