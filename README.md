@@ -21,8 +21,6 @@ I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart.
 <summary>Archive Projects</summary>
 
 - [shelldoc](https://github.com/Alimektor/shelldoc) ![shelldoc License](https://img.shields.io/github/license/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/languages/top/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/stars/Alimektor/shelldoc.svg?style=plastic) — A simple utility for creating Tomdoc style documentation for bash script.
-
-- [git-sync](https://github.com/Alimektor/git-sync) ![git-sync License](https://img.shields.io/github/license/Alimektor/git-sync.svg?style=plastic) ![git-sync Language](https://img.shields.io/github/languages/top/Alimektor/git-sync.svg?style=plastic) ![git-sync Language](https://img.shields.io/github/stars/Alimektor/git-sync.svg?style=plastic) — A template with magic aliases, hooks, services for Git repository auto-synchronization between different devices.
 </details>
 
 
@@ -88,4 +86,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: October 12, 2025
+Last Updated: October 19, 2025
