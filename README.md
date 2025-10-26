@@ -17,11 +17,6 @@ I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart.
 - [otoposuto](https://github.com/Alimektor/otoposuto) ![otoposuto License](https://img.shields.io/github/license/Alimektor/otoposuto.svg?style=plastic) ![otoposuto Language](https://img.shields.io/github/languages/top/Alimektor/otoposuto.svg?style=plastic) ![otoposuto Language](https://img.shields.io/github/stars/Alimektor/otoposuto.svg?style=plastic) — Post Markdown files to different posting systems.
 - [bats-alimektor](https://github.com/Alimektor/bats-alimektor) ![bats-alimektor License](https://img.shields.io/github/license/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/languages/top/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/stars/Alimektor/bats-alimektor.svg?style=plastic) — A Bats library with useful Bash functions.
 
-<details>
-<summary>Archive Projects</summary>
-
-- [shelldoc](https://github.com/Alimektor/shelldoc) ![shelldoc License](https://img.shields.io/github/license/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/languages/top/Alimektor/shelldoc.svg?style=plastic) ![shelldoc Language](https://img.shields.io/github/stars/Alimektor/shelldoc.svg?style=plastic) — A simple utility for creating Tomdoc style documentation for bash script.
-</details>
 
 
 ## Social ##
@@ -86,4 +81,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: October 19, 2025
+Last Updated: October 26, 2025
