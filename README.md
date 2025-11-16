@@ -12,6 +12,7 @@ I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart.
 
 ## Projects ##
 
+- [alimektor-glo-academy-ozon-copy-intensive](https://github.com/Alimektor/alimektor-glo-academy-ozon-copy-intensive) ![alimektor-glo-academy-ozon-copy-intensive License](https://img.shields.io/github/license/Alimektor/alimektor-glo-academy-ozon-copy-intensive.svg?style=plastic) ![alimektor-glo-academy-ozon-copy-intensive Language](https://img.shields.io/github/languages/top/Alimektor/alimektor-glo-academy-ozon-copy-intensive.svg?style=plastic) ![alimektor-glo-academy-ozon-copy-intensive Language](https://img.shields.io/github/stars/Alimektor/alimektor-glo-academy-ozon-copy-intensive.svg?style=plastic) — This educational project is a learning-oriented replication of the Ozon e-commerce platform, designed to provide students and developers with a comprehensive understanding of building complex online marketplaces.
 - [git-synchronize](https://github.com/Alimektor/git-synchronize) ![git-synchronize License](https://img.shields.io/github/license/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/languages/top/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/stars/Alimektor/git-synchronize.svg?style=plastic) — Git command that helps you synchronize your local git repository with a remote repository with automatic commit message and push.
 - [mendokusai](https://github.com/Alimektor/mendokusai) ![mendokusai License](https://img.shields.io/github/license/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/languages/top/Alimektor/mendokusai.svg?style=plastic) ![mendokusai Language](https://img.shields.io/github/stars/Alimektor/mendokusai.svg?style=plastic) — A public home (~) config directory with useful configs, scripts, cheat codes, shell libraries for Linux / Git Bash for every day.
 - [otoposuto](https://github.com/Alimektor/otoposuto) ![otoposuto License](https://img.shields.io/github/license/Alimektor/otoposuto.svg?style=plastic) ![otoposuto Language](https://img.shields.io/github/languages/top/Alimektor/otoposuto.svg?style=plastic) ![otoposuto Language](https://img.shields.io/github/stars/Alimektor/otoposuto.svg?style=plastic) — Post Markdown files to different posting systems.
@@ -81,4 +82,4 @@ Yeah, I'm playing Valorant. Just not alone.
 
 ![Dino](images/general/dino.gif)
 
-Last Updated: November 09, 2025
+Last Updated: November 16, 2025
