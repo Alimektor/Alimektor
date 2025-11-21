@@ -82,5 +82,3 @@ Yeah, I'm playing Valorant. Just not alone.
 ----
 
 ![Dino](images/general/dino.gif)
-
-Last Updated: DATE_HERE
