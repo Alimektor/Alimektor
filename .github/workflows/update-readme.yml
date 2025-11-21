@@ -46,7 +46,7 @@ jobs:
           git config --local user.name "アリメクタ アレネクト"
           git config --local user.email "alimektor@gmail.com"
           git add -A
-          git commit -m "Update README from Github Actions task" || echo "No changes to commit"
+          git commit -m "chore: Update README from Github Actions task" || echo "No changes to commit"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
