@@ -9,7 +9,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 23 * * 0'
+    - cron: "0 23 * * 0"
 
 jobs:
   run-script:
@@ -22,7 +22,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
+          python-version: "3.9"
 
       - name: Install dependencies
         run: |
@@ -45,8 +45,7 @@ jobs:
         run: |
           git config --local user.name "アリメクタ アレネクト"
           git config --local user.email "alimektor@gmail.com"
-          git diff-index --quiet HEAD -- || sed -i "s/Last Updated: DATE_HERE/Last Updated: $(date +"%B %d, %Y")/" README.md
-          git add .
+          git add -A
           git commit -m "Update README from Github Actions task" || echo "No changes to commit"
           git push origin main
         env:
