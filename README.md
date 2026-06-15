@@ -12,8 +12,8 @@ I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart.
 
 ## Projects ##
 
-- [bats-alimektor](https://github.com/Alimektor/bats-alimektor) ![bats-alimektor License](https://img.shields.io/github/license/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/languages/top/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/stars/Alimektor/bats-alimektor.svg?style=plastic) — A Bats library with useful Bash functions.
 - [git-synchronize](https://github.com/Alimektor/git-synchronize) ![git-synchronize License](https://img.shields.io/github/license/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/languages/top/Alimektor/git-synchronize.svg?style=plastic) ![git-synchronize Language](https://img.shields.io/github/stars/Alimektor/git-synchronize.svg?style=plastic) — It is a powerful Git command that helps you effortlessly synchronize your local Git repository with a remote repository, complete with automatic commit message and seamless pushes.
+- [bats-alimektor](https://github.com/Alimektor/bats-alimektor) ![bats-alimektor License](https://img.shields.io/github/license/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/languages/top/Alimektor/bats-alimektor.svg?style=plastic) ![bats-alimektor Language](https://img.shields.io/github/stars/Alimektor/bats-alimektor.svg?style=plastic) — A Bats library with useful Bash functions.
 
 <details>
 <summary>Archive Projects</summary>
